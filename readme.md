@@ -46,9 +46,3 @@ Untuk mengatasi permasalahan tersebut, dibutuhkan sebuah **aplikasi desktop pint
 - Serialisasi
 - Cryptography
 - Internationalisasi
-
----
-
-## 📄 Lisensi
-
-Aplikasi ini dibuat untuk keperluan pembelajaran dan tugas akhir.
