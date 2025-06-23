@@ -3,8 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/ui/InputServisDialog.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/service/CryptoUtil.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/messages_en.properties</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/service/Localization.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/service/RememberMeUtil.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/service/SerializationUtil.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/Main.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/db/DBUtil.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/service/AuthService.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/App/dao/ServisDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Aplikasi%20Riwayat%20Servise%20Komputer/src/messages_id.properties</file>
         </group>
     </open-files>
 </project-private>
